@@ -1,0 +1,277 @@
+
+
+-----------  -------
+Experiment   pop3   
+Sub          exp1_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.40                  
+ Sn_pop     0.30                  
+ Sp_pop     0.60                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40      
+ p11        0.12                  
+ p01        0.28                  
+ p10        0.24                  
+ p00        0.36                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.456750    108.650 
+ 1000     0.457274    542.726 
+
+-----------  -------
+Experiment   pop3   
+Sub          exp2_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.40                  
+ Sn_pop     0.30                  
+ Sp_pop     0.90                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40       
+ p11        0.12                  
+ p01        0.28                  
+ p10        0.06                  
+ p00        0.54                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.528220     94.356 
+ 1000     0.528828    471.172 
+
+-----------  -------
+Experiment   pop3   
+Sub          exp3_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.40                  
+ Sn_pop     0.60                  
+ Sp_pop     0.60                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40       
+ p11        0.24                  
+ p01        0.16                  
+ p10        0.24                  
+ p00        0.36                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.408200    118.360 
+ 1000     0.409120    590.880 
+
+-----------  -------
+Experiment   pop3   
+Sub          exp4_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.40                  
+ Sn_pop     0.60                  
+ Sp_pop     0.90                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40        
+ p11        0.24                  
+ p01        0.16                  
+ p10        0.06                  
+ p00        0.54                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.479500    104.100 
+ 1000     0.481272    518.728 
+
+-----------  -------
+Experiment   pop3   
+Sub          exp5_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.40                  
+ Sn_pop     0.90                  
+ Sp_pop     0.60                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40      
+ p11        0.36                  
+ p01        0.04                  
+ p10        0.24                  
+ p00        0.36                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200        0.3617     127.66 
+ 1000       0.3611     638.90 
+
+-----------  -------
+Experiment   pop3   
+Sub          exp6_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.40                  
+ Sn_pop     0.90                  
+ Sp_pop     0.90                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40        
+ p11        0.36                  
+ p01        0.04                  
+ p10        0.06                  
+ p00        0.54                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.432120    113.576 
+ 1000     0.433850    566.150 
+
+-----------  -------
+Experiment   pop2   
+Sub          exp1_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.10                  
+ Sn_pop     0.30                  
+ Sp_pop     0.60                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40       
+ p11        0.03                  
+ p01        0.07                  
+ p10        0.36                  
+ p00        0.54                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.444750    111.050 
+ 1000     0.445698    554.302 
+
+-----------  -------
+Experiment   pop2   
+Sub          exp2_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.10                  
+ Sn_pop     0.30                  
+ Sp_pop     0.90                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40       
+ p11        0.03                  
+ p01        0.07                  
+ p10        0.09                  
+ p00        0.81                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.552930     89.414 
+ 1000     0.552648    447.352 
+
+-----------  -------
+Experiment   pop2   
+Sub          exp3_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.10                  
+ Sn_pop     0.60                  
+ Sp_pop     0.60                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40        
+ p11        0.06                  
+ p01        0.04                  
+ p10        0.36                  
+ p00        0.54                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.432430    113.514 
+ 1000     0.433732    566.268 
+
+-----------  -------
+Experiment   pop2   
+Sub          exp4_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.10                  
+ Sn_pop     0.60                  
+ Sp_pop     0.90                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40      
+ p11        0.06                  
+ p01        0.04                  
+ p10        0.09                  
+ p00        0.81                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.540820     91.836 
+ 1000     0.541014    458.986 
+
+-----------  -------
+Experiment   pop2   
+Sub          exp5_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.10                  
+ Sn_pop     0.90                  
+ Sp_pop     0.60                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40    
+ p11        0.09                  
+ p01        0.01                  
+ p10        0.36                  
+ p00        0.54                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.416070    116.786 
+ 1000     0.421692    578.308 
+
+-----------  -------
+Experiment   pop2   
+Sub          exp6_2 
+-----------  -------
+
+ This.experiment.folder.settings. 
+ ---------------------------------
+ params                           
+ p_pop      0.10                  
+ Sn_pop     0.90                  
+ Sp_pop     0.90                  
+ p_sel_t1   0.80                  
+ p_sel_t0   0.40           
+ p11        0.09                  
+ p01        0.01                  
+ p10        0.09                  
+ p00        0.81                  
+
+ Missing.rate.n.complete      
+ -----------------------------
+ 200      0.525940     94.812 
+ 1000     0.528750    471.250 
